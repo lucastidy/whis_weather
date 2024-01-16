@@ -24,7 +24,14 @@ You can install these libraries using pip:
 ```bash
 pip install requests
 pip install pillow
-
+```
 ## Usage
+
+Run the main() function in the provided code to start the application.
+The application window will appear with the title "Whistler 5-Day Forecast" and a drop-down menu for selecting a day.
+Select a specific day from the drop-down menu to see the weather forecast for that day.
+Weather information will be displayed in the main area of the window, including temperature, min temperature, max temperature, feels like temperature, wind speed, wind gust, and weather description.
+The information will update automatically based on your selection.
+Notes
 
 This project is solely intended for personal use and not to be used commercially. If commercial usage is desired, please contact OpenWeatherMap to request a professional API key. Otherwise, have fun and thanks for downloading!
