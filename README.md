@@ -24,3 +24,7 @@ You can install these libraries using pip:
 ```bash
 pip install requests
 pip install pillow
+
+## Usage
+
+This project is solely intended for personal use and not to be used commercially. If commercial usage is desired, please contact OpenWeatherMap to request a professional API key. Otherwise, have fun and thanks for downloading!
