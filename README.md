@@ -1,6 +1,6 @@
 # Whistler 5-Day Forecast App
 
-This Python application provides a 5-day weather forecast for Whistler Blackcomb, a popular ski resort in Canada. It uses the OpenWeatherMap API to retrieve weather data and displays it in a user-friendly graphical user interface (GUI) built using the Tkinter library.
+This Python application provides a 5-day weather forecast for Whistler Blackcomb, a popular ski resort in Canada. It uses the OpenWeatherMap API to retrieve weather data and displays it in a user-friendly graphical user interface built using the Tkinter library.
 
 ## Features
 
